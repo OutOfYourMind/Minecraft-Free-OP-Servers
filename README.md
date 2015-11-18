@@ -7,5 +7,7 @@ Below is a list of active free OP servers for Minecraft. Feel free to contribute
 |     Dream-MC     |          dream-mc.net         | 25565 |     Cracked     |            Yes            |   Allowed   |
 |       E=Mc2      |         96.234.205.96         | 25565 |     Premium     |            Yes            | Not allowed |
 | EXPLODINGFreedom | explodingfreedom.fadehost.com | 25565 |     Cracked     |     No, given by staff    | Not allowed |
-|                  |                               |       |                 |                           |             |
-
+|     Flame.ga     |            flame.ga           | 25565 |     Cracked     |            Yes            |   Allowed   |
+|     FreedomOp    |           fop.us.to           | 25565 |     Premium     |            Yes            | Not allowed |
+|    ImmaFreedom   |      play.immafreedom.eu      | 25565 |     Cracked     |     No, given by staff    | Not allowed |
+|   LemonFreedom   |       play.lemoncraft.me      | 25565 |     Cracked     |            Yes            |   Unknown   |
