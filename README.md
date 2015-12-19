@@ -9,7 +9,6 @@ Below is a list of active free OP servers for Minecraft. Feel free to contribute
 |       E=Mc2      |         96.234.205.96         |     Premium     |            Yes            | Not allowed |
 | EXPLODINGFreedom | explodingfreedom.fadehost.com |     Cracked     |    No, given by others    | Not allowed |
 |     Flame.ga     |            flame.ga           |     Cracked     |            Yes            |   Allowed   |
-|     FreedomOp    |           fop.us.to           |     Premium     |            Yes            | Not allowed |
 |    ImmaFreedom   |      play.immafreedom.eu      |     Cracked     |    No, given by others    | Not allowed |
 |   LemonFreedom   |       play.lemoncraft.me      |     Cracked     |            Yes            |   Unknown   |
 |    RubyFreedom   |         rfreedom.us.to        |     Cracked     |    No, given by others    |   Unknown   |
@@ -17,4 +16,4 @@ Below is a list of active free OP servers for Minecraft. Feel free to contribute
 |   TotalFreedom   |      play.totalfreedom.me     |     Cracked     |    No, given by others    | Not allowed |
 |    UniqueCraft   |      play.uniquecraft.eu      |     Premium     |            Yes            |   Allowed   |
 
-Last updated on November 28, 2015
+Last updated on December 19, 2015
