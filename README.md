@@ -5,6 +5,7 @@ Below is a list of active free OP servers for Minecraft. Feel free to contribute
 |:----------------:|:-----------------------------:|:---------------:|:-------------------------:|:-----------:|
 |  Anarchy All OP  |  play.anarchyallop.com:25640  |     Premium     | No, registration required | Not allowed |
 |    BoomFreedom   |    boomfreedom.fadehost.com   |     Premium     |            No             | Not allowed |
+|   CatalystCraft  |    catalystcraft.zapto.org    |     Premium     |    No, given by others    | Not allowed |
 |     Dream-MC     |          dream-mc.net         |     Cracked     |            Yes            |   Allowed   |
 |       E=Mc2      |         96.234.205.96         |     Premium     |            Yes            | Not allowed |
 | EXPLODINGFreedom | explodingfreedom.fadehost.com |     Cracked     |    No, given by others    | Not allowed |
@@ -16,4 +17,4 @@ Below is a list of active free OP servers for Minecraft. Feel free to contribute
 |   TotalFreedom   |      play.totalfreedom.me     |     Cracked     |    No, given by others    | Not allowed |
 |    UniqueCraft   |      play.uniquecraft.eu      |     Premium     |            Yes            |   Allowed   |
 
-Last updated on December 19, 2015
+Last updated on January 02, 2016
