@@ -15,14 +15,9 @@ Below is a list of active free OP servers in Minecraft. Feel free to contribute 
 
 |    Server Name   |               IP              | Premium/Cracked |         Instant OP        |   Griefing  | Free WorldEdit |
 |:----------------:|:-----------------------------:|:---------------:|:-------------------------:|:-----------:|:--------------:|
-|    BoomFreedom   |    boomfreedom.fadehost.com   |     Premium     |    No, given by others    | Not allowed |      Yes       |
 |   CatalystCraft  |    catalystcraft.zapto.org    |     Premium     |    No, given by others    | Not allowed |      Yes       |
 | EXPLODINGFreedom | explodingfreedom.fadehost.com |     Cracked     |    No, given by others    | Not allowed |      Yes       |
-|     FreedomOP    |           fop.us.to           |     Premium     |    No, given by others    | Not allowed |      Yes       |
-|    ImmaFreedom   |      play.immafreedom.eu      |     Cracked     |    No, given by others    | Not allowed |      Yes       |
-|   LemonFreedom   |       play.lemoncraft.me      |     Cracked     |            Yes            |   Unknown   |      Yes       |
 |   ToastFreedom   |    toastfreedom.us.to:27017   |     Cracked     |    No, given by others    |   Unknown   |      Yes       |
 |   TotalFreedom   |      play.totalfreedom.me     |     Cracked     |    No, given by others    | Not allowed |      Yes       |
-|   WillieFreedom  |     williefreedom.ddns.net    |     Cracked     |    No, given by others    |   Unknown   |      Yes       |
 
 Last updated on February 13, 2016
