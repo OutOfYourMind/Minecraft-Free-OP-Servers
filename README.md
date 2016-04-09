@@ -9,6 +9,7 @@ Below is a list of active free OP servers in Minecraft. Feel free to contribute 
 |     Dream-MC     |          dream-mc.net         |     Cracked     |            Yes            |   Allowed   |       No       |
 |       E=Mc2      |         96.234.205.96         |     Premium     |            Yes            | Not allowed |      Yes       |
 |     Flame.ga     |            flame.ga           |     Cracked     |            Yes            |   Allowed   |      Yes       |
+|     MaiCraft     |       69.162.95.99:26897      |     Premium     |            Yes            |   Allowed   |      Yes       |
 |    UniqueCraft   |      play.uniquecraft.eu      |     Premium     |            Yes            |   Allowed   |       No       |
 
-Last updated on April 8, 2016
+Last updated on April 9, 2016
